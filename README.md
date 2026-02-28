@@ -1,6 +1,9 @@
 # CDS524-Assignment-1---Final-Console-Q-Learning-Game
 A game that trains agent to find treasure, using the shortest steps.
 
+<img width="865" height="713" alt="image" src="https://github.com/user-attachments/assets/3d5bcb27-4410-46f1-b000-673c00959767" />
+
+
 report:
 
 Q-Learning for Grid World Navigation: Implementation and Analysis
