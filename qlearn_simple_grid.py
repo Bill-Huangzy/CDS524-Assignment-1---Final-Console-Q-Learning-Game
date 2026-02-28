@@ -1,8 +1,5 @@
 # ==============================================
 # CDS524 Assignment 1 - Q-Learning Game (Training Only)
-# 精简版：移除手动模式按钮/说明 + 保留训练核心功能 + 零卡顿
-# 依赖：pip install numpy pygame
-# 操作：T=Train R=Reset Q=Quit
 # ==============================================
 import numpy as np
 import random
@@ -333,4 +330,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n❌ Runtime error: {str(e)}")
         input("Press Enter to exit...")
+
         sys.exit(1)
